@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Jesús!</h1>
-<p>Fui estudiante de Tecnología Digital y Multimedia en la UPV y actualmente estoy cursando un master en Tecnologías Audiovisuales. Este es mi mostrador de proyectos personal. Aqui enseño todos mis proyectos tecnológicos, entre los que se incluyen páginas web, videojuegos y programas de Python con diferentes propósitos.</p>
+<p>Soy graduado en Tecnología Digital y Multimedia por la UPV y actualmente estoy cursando un master en Tecnologías Audiovisuales. Este es mi mostrador de proyectos personal. Aqui enseño todos mis proyectos tecnológicos, entre los que se incluyen páginas web, videojuegos y programas de Python con diferentes propósitos.</p>
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
